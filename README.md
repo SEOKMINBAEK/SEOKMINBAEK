@@ -1,9 +1,6 @@
 <!-- solved.ac 티어 -->
 ![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=gatsby3130)
 
-<!-- solved.ac 클래스 -->
-[https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=gatsby3130](https://mazassumnida.wtf/api/v2/generate_badge?boj=gatsby3130)
-
 <!--
 **SEOKMINBAEK/SEOKMINBAEK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
