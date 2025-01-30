@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={gatsby3130})](https://solved.ac/{gatsby3130})
 
 <!--
 **SEOKMINBAEK/SEOKMINBAEK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
